@@ -1,0 +1,4 @@
+#!/bin/sh
+echo "Running wifi toggle on system wake"
+networksetup -setairportpower en0 off
+networksetup -setairportpower en0 on
