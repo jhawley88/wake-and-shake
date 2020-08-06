@@ -13,5 +13,9 @@
 	<true/>
 	<key>KeepAlive</key>
 	<true/>
+	<key>StandardOutPath</key>
+	<string>/Users/josh/shell_helpers/toggleWifiDaemon.log</string>
+	<key>StandardErrorPath</key>
+	<string>/Users/josh/shell_helpers/toggleWifiDaemon-errors.log</string>
 </dict>
 </plist>
